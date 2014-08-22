@@ -198,7 +198,6 @@ Source Building
     mvn jetty:run -Ddubbo.registry.address=zookeeper://127.0.0.1:2181
     http://root:root@127.0.0.1:8080
 
-
 发布到tomcat：
     
     1.复制 dubbo-admin-xx.war 到 ${tomcat-home}/webapps 
@@ -210,4 +209,3 @@ Source Building
         dubbo.registry.address=zookeeper://127.0.0.1:2181
         dubbo.admin.root.password=root
         dubbo.admin.guest.password=guest
-
