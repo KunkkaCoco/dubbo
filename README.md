@@ -72,7 +72,7 @@ Source Building
     dubbo-demo-consumer/src/test/java/com.alibaba.dubbo.demo.consumer.DemoConsumer
     dubbo-monitor-simple/src/test/java/com.alibaba.dubbo.monitor.simple.SimpleMonitor
     dubbo-registry-simple/src/test/java/com.alibaba.dubbo.registry.simple.SimpleRegistry
-
+ 
     Edit Config:
     dubbo-demo-provider/src/test/resources/dubbo.properties
     dubbo-demo-consumer/src/test/resources/dubbo.properties
